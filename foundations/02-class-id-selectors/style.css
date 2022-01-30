@@ -1,4 +1,4 @@
-p {
+.odd {
     background-color: hsl(7,100%,80%);
     font-family: "Verdana", "DejaVu Sans", "sans-serif";
 }
